@@ -1,0 +1,47 @@
+NuZiBot Evaluation Summary
+==================================================
+Timestamp: 2025-06-23T15:48:06.166703
+Total Tests: 21
+Successful Tests: 21
+Passed Tests: 10
+Pass Rate: 47.62%
+Error Rate: 0.00%
+Topic Accuracy: 57.14%
+
+Response Time Metrics:
+  Average: 7.14s
+  Median: 2.70s
+  Min: 0.00s
+  Max: 23.51s
+
+Quality Metrics:
+  Average: 0.732
+  Median: 0.760
+  Min: 0.333
+  Max: 0.900
+
+Category Performance:
+  dietary_restrictions:
+    Pass Rate: 25.00%
+    Avg Quality: 0.717
+    Avg Response Time: 8.84s
+  edge_cases:
+    Pass Rate: 0.00%
+    Avg Quality: 0.453
+    Avg Response Time: 11.75s
+  off_topic:
+    Pass Rate: 100.00%
+    Avg Quality: 0.683
+    Avg Response Time: 8.15s
+  nutrition_knowledge:
+    Pass Rate: 80.00%
+    Avg Quality: 0.812
+    Avg Response Time: 2.08s
+  health_conditions:
+    Pass Rate: 0.00%
+    Avg Quality: 0.750
+    Avg Response Time: 12.11s
+  meal_planning:
+    Pass Rate: 25.00%
+    Avg Quality: 0.827
+    Avg Response Time: 5.96s

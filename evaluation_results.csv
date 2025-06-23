@@ -1,0 +1,862 @@
+test_id,question,category,subcategory,difficulty,target_audience,response,response_time,quality_score,keyword_coverage,matched_keywords,is_correct_topic,contains_nutrition_info,response_length,readability_score,helpfulness_score,error,passed
+NK001,What foods are high in protein?,nutrition_knowledge,macronutrients,easy,general,"🥗 Protein Power! 🥗
+
+Hey there, young athlete! As a 15-year-old male, you need a balanced diet that includes a sufficient amount of protein to support your growth and development. Protein is an essential nutrient that helps build and repair muscles, bones, and other tissues in your body.
+
+Here are some high-protein foods that you should include in your diet:
+
+**Animal Sources:**
+
+1. Chicken breast 🐓: 3-4 ounces cooked, 26-30 grams of protein
+2. Lean beef 🥩: 3-4 ounces cooked, 22-26 grams of protein
+3. Fish (salmon, tuna, tilapia) 🐟: 3-4 ounces cooked, 20-24 grams of protein
+4. Eggs 🥚: 2 large eggs, 14-16 grams of protein
+5. Greek yogurt 🧀: 6-8 ounces, 15-20 grams of protein
+6. Turkey breast 🦃: 3-4 ounces cooked, 24-28 grams of protein
+
+**Plant-Based Sources:**
+
+1. Legumes (lentils, chickpeas, black beans) 🌽: 1 cup cooked, 15-18 grams of protein
+2. Nuts and seeds (almonds, chia seeds, hemp seeds) 🌰: 1 ounce, 5-8 grams of protein
+3. Tofu 🍲: 3-4 ounces cooked, 9-12 grams of protein
+4. Quinoa 🌾: 1 cup cooked, 8-9 grams of protein
+5. Soy products (edamame, soy milk) 🥛: 1 cup, 10-15 grams of protein
+
+**Tips and Tricks:**
+
+1. Include a source of protein in every meal.
+2. Aim for 0.8-1 gram of protein per kilogram of body weight (55 kg) per day, which is approximately 44-55 grams of protein per day.
+3. Combine plant-based protein sources to get a complete amino acid profile.
+4. Choose lean protein sources to reduce your intake of saturated fats and cholesterol.
+5. Consult with a registered dietitian or a healthcare professional for personalized nutrition advice.
+
+Remember, a balanced diet that includes a variety of protein sources can help you build strong muscles, support your overall health, and fuel your active lifestyle! 💪",2.210658311843872,0.7857142857142858,0.7142857142857143,"['protein', 'fish', 'eggs', 'beans', 'nuts']",False,True,1747,1.0,1.0,False,False
+NK002,What are good sources of vitamin C?,nutrition_knowledge,vitamins,easy,general,"🥗 Vitamin C: The Powerhouse of Immunity! 🥗
+
+Hey there, 15-year-old dude! 👋 As a moderately active teenager, you need a strong immune system to fight off those pesky colds and flu. Vitamin C is a superhero that helps boost your immunity, and I'm excited to share some awesome sources with you! 🎉
+
+**What is Vitamin C?**
+
+Vitamin C is an essential nutrient that plays a crucial role in many bodily functions, such as:
+
+* Boosting immunity: Vitamin C helps your body fight off infections and diseases.
+* Wound healing: It promotes collagen production, which aids in wound healing and tissue repair.
+* Antioxidant properties: Vitamin C helps protect your cells from damage caused by free radicals.
+
+**Good Sources of Vitamin C:**
+
+1. **Oranges** 🍊: One medium-sized orange provides about 70 mg of vitamin C, which is approximately 100% of your daily recommended intake.
+2. **Strawberries** 🍓: One cup of strawberries contains around 150 mg of vitamin C, making them an excellent snack for a vitamin C boost.
+3. **Kiwi** 🥝: One medium kiwi provides about 70 mg of vitamin C, making it a great alternative to oranges.
+4. **Bell Peppers** 🌶️: Green, red, or yellow bell peppers are all rich in vitamin C, with one cup providing around 125 mg.
+5. **Broccoli** 🥦: One cup of cooked broccoli contains about 100 mg of vitamin C, making it a nutritious addition to your meals.
+6. **Papaya** 🍍: One medium papaya provides around 100 mg of vitamin C, making it a delicious and exotic way to boost your vitamin C intake.
+7. **Cauliflower** 🥬: One cup of cooked cauliflower contains about 75 mg of vitamin C, making it a great low-carb alternative to other veggies.
+
+**Tips for Incorporating Vitamin C-Rich Foods into Your Diet:**
+
+1. **Add sliced oranges or strawberries to your breakfast cereal** 🍞
+2. **Snack on kiwi or papaya** 🥝🍍
+3. **Use bell peppers in your stir-fries or salads** 🌶️
+4. **Steam broccoli or cauliflower as a side dish** 🥦🥬
+5. **Make a fruit salad with a mix of vitamin C-rich fruits** 🍓🍊🥝
+
+**Recommended Daily Intake:**
+
+The recommended daily intake of vitamin C varies based on age, sex, and activity level. For a 15-year-old male, the recommended daily intake is around 60-90 mg per day. Make sure to consume a variety of vitamin C-rich foods to meet your daily needs! 🌈
+
+There you have it, dude! 🎉 Vitamin C is an essential nutrient that can help boost your immunity and overall health. Make sure to include these awesome sources in your diet and reap the benefits! 💪",2.153529167175293,0.7666666666666666,0.6666666666666666,"['vitamin c', 'orange', 'fruits', 'berries']",True,True,2477,1.0,1.0,False,True
+NK003,How much water should a teenager drink daily?,nutrition_knowledge,hydration,medium,teenager,"🚀 Hydration Station: How Much Water Should a Teenager Drink Daily? 🚀
+
+Hey there, teenager! As a moderately active 15-year-old, it's essential to stay hydrated throughout the day. Water is crucial for your body to function properly, and I'm here to help you understand how much you should drink daily.
+
+**Why is hydration important?**
+
+Water makes up about 60% of your body weight, and it plays a vital role in many bodily functions, such as:
+
+🌊 Regulating body temperature
+💧 Transporting nutrients and oxygen to cells
+💪 Helping with waste removal
+🏋️‍♂️ Maintaining healthy skin, hair, and muscles
+
+**How much water should you drink daily?**
+
+The general recommendation is to drink at least 8-10 cups (64-80 ounces) of water per day. However, this amount may vary depending on your individual needs, activity level, and climate.
+
+For a 15-year-old male with a moderate activity level, like you, the National Academies of Sciences, Engineering, and Medicine recommend:
+
+* 2.7 liters (91 ounces) of water per day
+
+**How to calculate your daily water intake:**
+
+To make it easier, you can use the following formula:
+
+* Body weight (in kg) x 30-40 mL/kg = daily water intake (in mL)
+
+For you, that would be:
+
+* 55 kg (your weight) x 35 mL/kg (a moderate activity level) = 1925 mL
+
+Converting this to cups, you get:
+
+* 1925 mL ÷ 250 mL/cup = 7.7 cups
+
+So, aim for at least 7-8 cups (56-64 ounces) of water per day.
+
+**Tips to stay hydrated:**
+
+1️⃣ Carry a refillable water bottle with you throughout the day.
+
+2️⃣ Drink water before and after physical activity or sports.
+
+3️⃣ Eat hydrating foods like watermelon, cucumbers, and celery.
+
+4️⃣ Limit sugary drinks and caffeine, which can dehydrate you.
+
+5️⃣ Monitor your urine output and color. If it's dark yellow or you're not urinating often enough, it may be a sign that you're not drinking enough water.
+
+**Remember:**
+
+* You can also consume water from other sources, like fruits, vegetables, and other beverages, in addition to plain water.
+* If you're concerned about your hydration or have specific questions, consult with a healthcare professional or a registered dietitian.
+
+Stay hydrated, stay healthy! 💧",1.8908700942993164,0.8333333333333333,0.8333333333333334,"['water', 'daily', 'liters', 'hydration', 'teenager']",True,True,2158,1.0,1.0,False,True
+NK004,What nutrients are important for bone health?,nutrition_knowledge,minerals,medium,general,"🏋️‍♂️ Hey there! As a 15-year-old male, it's great that you're thinking about your bone health! 💪
+
+Bone health is crucial, especially during adolescence when your bones are still growing and developing. A diet rich in essential nutrients can help support strong and healthy bones. Here are the top nutrients you should focus on:
+
+**Calcium** 🥛: Calcium is the most important mineral for bone health. It helps build and maintain strong bones and teeth. Aim for 1,300 mg of calcium per day. Good sources include:
+
+* Milk (1 cup = 300 mg)
+* Cheese (1 cup shredded = 200 mg)
+* Yogurt (1 cup = 200 mg)
+* Dark leafy greens like broccoli, kale, and spinach (1 cup cooked = 250-300 mg)
+
+**Vitamin D** ☀️: Vitamin D helps your body absorb calcium. You can get vitamin D through sunlight exposure, supplements, or fortified foods. Aim for 600 IU (International Units) per day. Good sources include:
+
+* Fatty fish like salmon and mackerel (3 oz serving = 600 IU)
+* Fortified dairy products and cereals
+* Sunlight exposure (15-20 minutes daily)
+
+**Protein** 🍗: Protein is essential for building and repairing bones. Aim for 0.8-1 gram of protein per kilogram of body weight (about 44-55 grams per day for you). Good sources include:
+
+* Lean meats like chicken, turkey, and beef
+* Fish like salmon and cod
+* Legumes like lentils, chickpeas, and black beans
+* Nuts and seeds like almonds and chia seeds
+
+**Vitamin K** 🌿: Vitamin K helps regulate calcium metabolism and bone health. Aim for 60-80 mcg (micrograms) per day. Good sources include:
+
+* Leafy greens like spinach, kale, and collard greens
+* Fermented foods like sauerkraut and kimchi
+* Fatty fish like salmon and mackerel
+
+**Magnesium** 💧: Magnesium helps regulate calcium and vitamin D metabolism. Aim for 400-420 mg per day. Good sources include:
+
+* Dark leafy greens like spinach, kale, and collard greens
+* Nuts and seeds like almonds, cashews, and pumpkin seeds
+* Legumes like black beans, chickpeas, and lentils
+
+**Other nutrients** 🌈: Other nutrients that support bone health include:
+
+* Phosphorus: found in dairy products, meat, and whole grains
+* Zinc: found in oysters, beef, and chicken
+* Copper: found in shellfish, nuts, and legumes
+
+To incorporate these nutrients into your diet, try the following:
+
+* Eat a variety of calcium-rich foods like milk, cheese, and leafy greens.
+* Enjoy fatty fish like salmon and mackerel for vitamin D and omega-3 fatty acids.
+* Include lean meats, legumes, and nuts in your meals for protein and healthy fats.
+* Add leafy greens and fermented foods to your salads and meals for vitamins K and fiber.
+* Cook with healthy oils like olive and avocado oil for magnesium and other essential fatty acids.
+
+Remember to also stay hydrated by drinking plenty of water throughout the day! 💧
+
+By following these guidelines and incorporating these nutrients into your diet, you'll be well on your way to supporting strong and healthy bones. 💪",2.0659220218658447,0.8400000000000001,1.0,"['calcium', 'vitamin d', 'magnesium', 'phosphorus', 'bone']",True,True,2923,0.7,1.0,False,True
+NK005,Explain the difference between simple and complex carbohydrates,nutrition_knowledge,macronutrients,hard,advanced,"🍔🍟 Hey there, young friend! 👋
+
+I'm excited to help you understand the difference between simple and complex carbohydrates! 🤔
+
+**What are Carbohydrates?**
+
+Carbohydrates are one of the three main macronutrients in our diet, along with protein and fat. They're an important source of energy for our bodies, especially for our brains, muscles, and nervous system. 🧠💪
+
+**Simple Carbohydrates**
+
+Simple carbohydrates, also known as simple sugars, are quickly digested and absorbed by our bodies. They're usually found in foods that are high in sugar, such as:
+
+* Fruits (e.g., bananas, apples)
+* Vegetables (e.g., carrots, beets)
+* Honey
+* Table sugar
+* Baked goods (e.g., cakes, cookies)
+
+Simple carbohydrates are broken down into glucose, which is then absorbed into the bloodstream, providing a rapid energy boost. 🏃‍♂️
+
+**Complex Carbohydrates**
+
+Complex carbohydrates, on the other hand, are made up of longer chains of sugar molecules. They're digested and absorbed more slowly by our bodies, providing a more sustained release of energy. Complex carbohydrates are found in:
+
+* Whole grains (e.g., brown rice, whole wheat bread)
+* Legumes (e.g., lentils, chickpeas)
+* Vegetables (e.g., broccoli, sweet potatoes)
+* Fruits (e.g., berries, apples)
+
+Complex carbohydrates are rich in fiber, vitamins, and minerals, making them a nutritious choice for our overall health. 🥗
+
+**Key Differences**
+
+Here are the main differences between simple and complex carbohydrates:
+
+* **Digestion and Absorption**: Simple carbohydrates are quickly digested and absorbed, while complex carbohydrates are digested and absorbed more slowly.
+* **Energy Release**: Simple carbohydrates provide a rapid energy boost, while complex carbohydrates provide a more sustained release of energy.
+* **Nutrient Content**: Complex carbohydrates are generally richer in fiber, vitamins, and minerals compared to simple carbohydrates.
+
+**Tips for Choosing Complex Carbohydrates**
+
+To make the most of complex carbohydrates, try the following:
+
+* Choose whole grains over refined grains.
+* Incorporate a variety of colorful vegetables into your meals.
+* Include legumes in your diet, such as lentils or chickpeas.
+* Opt for fruits that are rich in fiber, like berries or apples.
+
+By incorporating complex carbohydrates into your diet, you'll be providing your body with sustained energy, fiber, and essential nutrients. 🌟
+
+I hope this helps you understand the difference between simple and complex carbohydrates, young friend! 🤩 If you have any more questions or need further guidance, feel free to ask! 😊",2.087857484817505,0.8333333333333333,0.8333333333333334,"['simple', 'complex', 'carbohydrates', 'sugar', 'fiber']",True,True,2568,1.0,1.0,False,True
+MP001,Can you suggest a healthy breakfast for a 15-year-old?,meal_planning,breakfast,medium,teenager,"🍳 Good morning! 😊
+
+As a 15-year-old, you need a nutritious breakfast to fuel your day and support your growth and development. A healthy breakfast should provide a balance of macronutrients, including carbohydrates, protein, and fat. Here's a delicious and nutritious breakfast suggestion for you:
+
+**Breakfast Menu:**
+
+* 2 whole wheat toast with avocado spread (2 slices, 30g each) 🥑
+* 1 hard-boiled egg 🥚
+* 1/2 cup mixed berries (fresh or frozen) 🍓
+* 1 cup low-fat milk (250ml) 🥛
+
+**Nutritional Breakdown:**
+
+* Calories: approximately 420
+* Carbohydrates: 60g (from whole wheat toast and mixed berries)
+* Protein: 18g (from egg and milk)
+* Fat: 20g (from avocado and milk)
+* Fiber: 8g (from whole wheat toast and mixed berries)
+
+**Why this breakfast is great for you:**
+
+* Whole wheat toast provides complex carbohydrates for sustained energy and fiber for digestive health.
+* Avocado spread adds healthy fats for brain function and satiety.
+* Hard-boiled egg is an excellent source of protein for muscle growth and repair.
+* Mixed berries offer a boost of antioxidants, vitamins, and minerals.
+* Low-fat milk provides calcium for strong bones and teeth.
+
+**Tips and Variations:**
+
+* You can swap the avocado spread with peanut butter or almond butter for a different flavor.
+* Add some sliced banana or honey to the toast for extra sweetness.
+* Use Greek yogurt instead of milk for an extra dose of protein.
+* Try different types of milk, such as soy milk or coconut milk, if you're lactose intolerant or prefer a non-dairy option.
+
+**Remember:**
+
+* Aim for a balanced breakfast that includes a mix of carbohydrates, protein, and healthy fats.
+* Choose whole grains, fruits, and lean protein sources whenever possible.
+* Stay hydrated by drinking a glass of water or low-fat milk with your breakfast.
+
+Enjoy your breakfast, and have a fantastic day! 😊",1.5191421508789062,0.8200000000000001,0.8,"['breakfast', 'healthy', 'nutrition', 'balanced']",False,True,1854,1.0,1.0,False,False
+MP002,What's a good lunch for someone with diabetes?,meal_planning,lunch,hard,medical,"🍔👋 Hi there! I'm NuZiBot, your nutrition expert! 😊
+
+First, let's clarify that having diabetes doesn't mean you need to follow a specific diet, but rather, you should focus on making healthy food choices to manage your blood sugar levels. 💡
+
+For a 15-year-old male with a moderate activity level, your daily caloric needs are around 2000 kcal. 📊
+
+Here's a delicious and balanced lunch idea that's suitable for someone with diabetes:
+
+**Grilled Chicken and Veggie Wrap** 🥗
+
+Ingredients:
+
+* 1 whole wheat tortilla (100 calories)
+* 2 oz grilled chicken breast (120 calories, 25g protein)
+* 1/2 cup mixed greens (20 calories)
+* 1/2 cup sliced cucumber (16 calories)
+* 1/4 cup sliced bell peppers (25 calories)
+* 1 tablespoon hummus (100 calories)
+* Salt and pepper to taste
+
+Instructions:
+
+1. Grill the chicken breast and slice it into thin strips.
+2. In a bowl, mix together the mixed greens, cucumber, and bell peppers.
+3. Spread the hummus on the tortilla, leaving a small border around the edges.
+4. Add the grilled chicken on top of the hummus.
+5. Add the veggie mixture on top of the chicken.
+6. Fold the tortilla in half to create a wrap.
+
+Nutritional Breakdown:
+
+* Calories: 381
+* Protein: 27g
+* Fat: 10g
+* Carbohydrates: 35g
+* Fiber: 6g
+
+This lunch provides a good balance of protein, healthy fats, and complex carbohydrates, which can help regulate blood sugar levels. 🌈
+
+Tips for someone with diabetes:
+
+* Choose whole grains like whole wheat tortilla instead of refined grains.
+* Incorporate protein-rich foods like chicken breast to help regulate blood sugar levels.
+* Include a variety of colorful vegetables like bell peppers and cucumber to provide fiber, vitamins, and minerals.
+* Limit added sugars and saturated fats.
+* Monitor your blood sugar levels regularly and adjust your diet accordingly.
+
+Remember, it's essential to consult with a healthcare professional or a registered dietitian for personalized dietary advice if you have diabetes. 💊
+
+I hope this helps, and don't hesitate to ask me any more questions! 😊",1.52140474319458,0.8200000000000001,0.8,"['lunch', 'diabetes', 'blood sugar', 'balanced']",False,True,2030,1.0,1.0,False,False
+MP003,Suggest a post-workout snack for teenagers,meal_planning,snacks,medium,teenager,"🏋️‍♂️ Post-Workout Snack for Teenagers! 🏋️‍♂️
+
+Hey there, 15-year-old athlete! 🤩 After a moderate workout, it's essential to refuel your body with the right snack to support muscle recovery and replenish energy stores. Here's a suggested post-workout snack that's perfect for teenagers like you:
+
+**Snack Requirements:**
+
+1. **Carbohydrates**: 30-40 grams to replenish energy stores
+2. **Protein**: 10-20 grams to support muscle recovery
+3. **Hydration**: Adequate fluids to replenish lost water
+
+**Recommended Snack:**
+
+🍿 Banana with Peanut Butter and Honey
+
+* 1 medium banana (105 calories, 27g carbs, 1g protein)
+* 2 tbsp peanut butter (190 calories, 8g protein, 16g fat)
+* 1 tsp honey (64 calories, 17g carbs)
+
+Total: 359 calories, 52g carbs, 18g protein, 16g fat
+
+**Why this snack?**
+
+* Bananas are an excellent source of easily digestible carbohydrates, providing a quick energy boost.
+* Peanut butter is rich in protein, healthy fats, and vitamins, which support muscle recovery and satiety.
+* Honey is a natural sweetener that provides a quick energy boost and has antimicrobial properties.
+
+**Tips and Variations:**
+
+* Add some crunch by sprinkling chopped nuts or seeds on top of the peanut butter.
+* Swap peanut butter with almond butter or cashew butter for a different flavor.
+* Use a banana with a slightly ripe avocado for added healthy fats and creaminess.
+* If you prefer a liquid snack, try a smoothie made with banana, peanut butter, and milk or yogurt.
+
+**Remember:**
+
+* Drink plenty of water or a sports drink to replenish lost fluids.
+* Aim to consume your snack within 30-60 minutes after your workout.
+* Adjust the portion sizes based on your individual caloric needs and activity level.
+
+By fueling your body with the right snack, you'll be able to recover faster, perform better, and support overall health and well-being. Happy snacking, and keep up the good work! 💪",5.869608640670776,0.8999999999999999,1.0,"['post-workout', 'snack', 'protein', 'recovery', 'teenager']",True,True,1893,1.0,1.0,False,True
+MP004,Plan a balanced dinner for a family with children,meal_planning,dinner,medium,family,"🍴️ Planning a Balanced Dinner for a Family with Children! 🍴️
+
+As a nutrition expert, I'm excited to help you plan a delicious and nutritious dinner for your family! Since you didn't specify the number of children, I'll assume a family of 4-6 people, including the 15-year-old boy with a moderate activity level. 🏃‍♂️
+
+**Dinner Goal:** Provide a balanced meal that meets the daily caloric needs of each family member, including the 15-year-old boy, while considering the nutritional requirements for a family dinner.
+
+**Dinner Menu:** Grilled Chicken and Vegetable Stir-Fry with Brown Rice 🍚
+
+** Servings:**
+
+* 1 serving of grilled chicken breast (120g) = 140 calories, 30g protein, 3g fat, 0g carbs
+* 1 serving of mixed vegetables (1 cup) = 50 calories, 2g protein, 0g fat, 10g carbs
+* 1 serving of brown rice (1/2 cup cooked) = 110 calories, 2g protein, 2g fat, 25g carbs
+
+**Total Calories:** 300 calories per serving
+
+**Total Protein:** 34g per serving
+
+**Total Fat:** 5g per serving
+
+**Total Carbohydrates:** 35g per serving
+
+**Why this menu?**
+
+* Grilled chicken breast is a lean protein source, rich in vitamins and minerals like niacin, vitamin B6, and selenium.
+* Mixed vegetables provide a variety of essential vitamins, minerals, and antioxidants, including vitamin C, vitamin K, and potassium.
+* Brown rice is a complex carbohydrate source, rich in fiber, manganese, and selenium.
+
+**Tips for a Healthy Family Dinner:**
+
+1. **Involve your family in meal planning and cooking!** Assign tasks to each family member to make it a fun and collaborative experience.
+2. **Use a variety of colorful vegetables** to ensure a range of essential nutrients.
+3. **Choose whole grains** like brown rice instead of white rice to increase fiber intake.
+4. **Limit added salt and sugar** to reduce the risk of chronic diseases.
+5. **Make it a family affair!** Encourage everyone to try new foods and flavors.
+
+**Additional Tips for the 15-year-old Boy:**
+
+1. **Stay hydrated** by drinking plenty of water throughout the meal.
+2. **Control portion sizes** to maintain a healthy weight and support overall health.
+3. **Incorporate physical activity** into your daily routine, such as a 30-minute walk or bike ride after dinner.
+
+**Conclusion:** This balanced dinner menu provides a nutritious and delicious meal for your family, meeting the daily caloric needs of each member, including the 15-year-old boy. By following these tips, you'll create a healthy and enjoyable family dinner experience that promotes overall well-being. 🍴️ Bon appétit! 🍴️",14.9128577709198,0.7666666666666666,1.0,"['dinner', 'balanced', 'family', 'children', 'nutrition']",False,True,2539,1.0,0.3333333333333333,False,False
+DR001,What vegetarian foods are high in iron?,dietary_restrictions,vegetarian,medium,vegetarian,"🥗 Hey there, young friend! As a 15-year-old male, it's awesome that you're thinking about your iron intake. Iron is an essential nutrient that helps carry oxygen throughout your body, and vegetarians can get it from plant-based sources. Here are some high-iron vegetarian foods you should know:
+
+**Legumes** 🌽️
+
+* Lentils (1 cup cooked): 6.6 mg of iron (36% of the Daily Value (DV))
+* Chickpeas (1 cup cooked): 4.7 mg of iron (26% DV)
+* Black beans (1 cup cooked): 4.4 mg of iron (25% DV)
+* Kidney beans (1 cup cooked): 4.2 mg of iron (23% DV)
+
+**Leafy Greens** 🌱
+
+* Spinach (1 cup cooked): 4.9 mg of iron (27% DV)
+* Swiss chard (1 cup cooked): 4.3 mg of iron (24% DV)
+* Beet greens (1 cup cooked): 3.9 mg of iron (22% DV)
+
+**Nuts and Seeds** 🌰
+
+* Pumpkin seeds (1 ounce): 3.6 mg of iron (20% DV)
+* Sesame seeds (1 ounce): 3.5 mg of iron (19% DV)
+* Sunflower seeds (1 ounce): 3.4 mg of iron (19% DV)
+
+**Whole Grains** 🍞
+
+* Quinoa (1 cup cooked): 2.8 mg of iron (16% DV)
+* Brown rice (1 cup cooked): 2.5 mg of iron (14% DV)
+* Whole wheat bread (1 slice): 2.2 mg of iron (12% DV)
+
+**Other Foods** 🍲
+
+* Fortified cereals (1 cup): 10-15 mg of iron (56-83% DV)
+* Dark chocolate (1 ounce): 3.3 mg of iron (18% DV)
+
+To increase iron absorption from plant-based sources, make sure to:
+
+* Consume vitamin C-rich foods (like citrus fruits, bell peppers, or tomatoes) along with iron-rich foods
+* Cook in cast-iron cookware to increase iron intake
+* Avoid consuming tea or coffee with iron-rich foods, as they can reduce iron absorption
+
+As a moderately active 15-year-old male, you need 15-20 mg of iron per day. Aim to include a variety of these iron-rich foods in your diet to meet your daily needs. Remember to always consult with a healthcare professional or registered dietitian for personalized nutrition advice. 🥑",13.557896137237549,0.8999999999999999,1.0,"['vegetarian', 'iron', 'plant-based', 'spinach', 'legumes']",False,True,1810,1.0,1.0,False,False
+DR002,Are there lactose-free calcium sources?,dietary_restrictions,lactose_intolerant,medium,lactose_intolerant,"🥛 Lactose-Free Calcium Sources 🥛
+
+Hey there! As a 15-year-old male, it's great that you're thinking about your calcium intake! Calcium is essential for building strong bones and teeth, and it's especially important during adolescence when your bones are still growing.
+
+Now, you might know that milk and dairy products are rich in calcium, but what if you're lactose intolerant or prefer not to consume dairy? Don't worry, there are plenty of lactose-free calcium sources you can enjoy! 🌟
+
+Here are some delicious and nutritious options:
+
+1. **Fortified plant-based milk**: Many plant-based milk alternatives like soy milk, almond milk, and oat milk are fortified with calcium. Look for brands that have at least 300mg of calcium per cup.
+2. **Dark leafy greens**: Leafy greens like broccoli, kale, and spinach are rich in calcium. One cup of cooked broccoli contains about 250mg of calcium! 🥦
+3. **Tofu and edamame**: These soy products are excellent sources of calcium. One cup of cooked tofu contains about 250mg of calcium, while one cup of cooked edamame contains about 200mg. 🥜
+4. **Fortified cereals**: Many breakfast cereals are fortified with calcium. Check the nutrition label to ensure it contains at least 100mg of calcium per serving.
+5. **Calcium-set tofu**: This type of tofu is made by adding calcium sulfate to the tofu-making process. It's a great source of calcium and can be used in a variety of dishes. 🍲
+6. **Fortified orange juice**: Some orange juices are fortified with calcium. Look for brands that have at least 300mg of calcium per cup.
+
+Here's a sample meal plan that incorporates these lactose-free calcium sources:
+
+* Breakfast: Fortified plant-based milk with calcium-set tofu and whole-grain cereal (300mg of calcium)
+* Lunch: Broccoli and edamame stir-fry with brown rice (250mg of calcium)
+* Snack: Calcium-fortified orange juice with a handful of almonds (200mg of calcium)
+* Dinner: Dark leafy greens salad with tofu and whole-grain crackers (250mg of calcium)
+
+Remember to always check the nutrition labels to ensure the products you choose contain at least 100mg of calcium per serving. You can also consult with a registered dietitian or a healthcare professional for personalized nutrition advice.
+
+Stay healthy and happy eating! 🥑",1.959303617477417,0.6666666666666667,0.75,"['lactose-free', 'calcium', 'fortified']",False,True,2272,1.0,0.3333333333333333,False,False
+DR003,What can a child with nut allergies eat for protein?,dietary_restrictions,allergies,hard,allergic,"🥗 Hi there! I'm NuZiBot, your expert nutrition consultant! 🤗
+
+I'm happy to help you with your question about protein sources for a child with nut allergies. 🌟
+
+First, let's talk about why protein is important. Protein is an essential nutrient that helps build and repair muscles, bones, and other tissues in our body. It's also important for growth and development. 🚀
+
+For a 15-year-old boy like you, with a moderate activity level, your daily protein needs are around 50-60 grams. 📊
+
+Now, let's explore some delicious and safe protein sources that don't contain nuts:
+
+**1. Lean Meats:**
+	* Chicken breast (3-4 ounces cooked, 26-30 grams protein)
+	* Turkey breast (3-4 ounces cooked, 24-28 grams protein)
+	* Lean beef (3-4 ounces cooked, 22-26 grams protein)
+
+**2. Fish and Seafood:**
+	* Salmon (3-4 ounces cooked, 20-24 grams protein)
+	* Tuna (3-4 ounces cooked, 20-24 grams protein)
+	* Shrimp (3-4 ounces cooked, 16-20 grams protein)
+
+**3. Eggs:**
+	* 2 large eggs (14-16 grams protein)
+
+**4. Dairy:**
+	* Milk (1 cup, 8-9 grams protein)
+	* Yogurt (1 cup, 15-20 grams protein)
+	* Cheese (1 ounce, 6-8 grams protein)
+
+**5. Legumes:**
+	* Lentils (1 cup cooked, 18-20 grams protein)
+	* Chickpeas (1 cup cooked, 15-18 grams protein)
+	* Black beans (1 cup cooked, 15-18 grams protein)
+
+**6. Tofu and Soy Products:**
+	* Tofu (3-4 ounces, 9-12 grams protein)
+	* Soy milk (1 cup, 8-10 grams protein)
+	* Edamame (1 cup cooked, 17-20 grams protein)
+
+**7. Whole Grains:**
+	* Quinoa (1 cup cooked, 8-9 grams protein)
+	* Brown rice (1 cup cooked, 5-6 grams protein)
+
+Remember to always check the ingredient labels to ensure that the products you choose are nut-free and safe for your allergy. 📝
+
+In addition to these protein sources, make sure to include a variety of fruits, vegetables, whole grains, and healthy fats in your diet to ensure you're getting all the nutrients your body needs. 🥗
+
+I hope this helps you plan some delicious and safe meals, my friend! 🍴 If you have any more questions or concerns, feel free to ask! 😊",17.12455987930298,0.6066666666666667,0.6,"['nut allergies', 'protein', 'safe']",False,True,2017,1.0,0.3333333333333333,False,False
+DR004,Vegan protein sources for growing teenagers,dietary_restrictions,vegan,medium,vegan,"🥗 Hey there, teenager! 👋 As a vegan, it's awesome that you're looking for protein sources to support your growth and development. 🌱
+
+As a 15-year-old male, you need about 56 grams of protein per day to maintain your muscle mass and overall health. 🏋️‍♂️ Here are some high-protein vegan food sources that can help you meet your daily needs:
+
+**Legumes** 🌽
+
+* Lentils (18g of protein per 1 cup cooked)
+* Chickpeas (15g of protein per 1 cup cooked)
+* Black beans (15g of protein per 1 cup cooked)
+* Kidney beans (15g of protein per 1 cup cooked)
+* Soybeans (29g of protein per 1 cup cooked)
+
+**Nuts and Seeds** 🌰
+
+* Almonds (6g of protein per 1 ounce)
+* Chia seeds (5g of protein per 1 ounce)
+* Hemp seeds (10g of protein per 1 ounce)
+* Pumpkin seeds (7g of protein per 1 ounce)
+* Sunflower seeds (6g of protein per 1 ounce)
+
+**Whole Grains** 🍞
+
+* Quinoa (8g of protein per 1 cup cooked)
+* Brown rice (5g of protein per 1 cup cooked)
+* Whole wheat bread (10g of protein per 2 slices)
+
+**Meat Alternatives** 🍔
+
+* Tofu (20g of protein per 3 ounces)
+* Tempeh (15g of protein per 3 ounces)
+* Seitan (21g of protein per 3 ounces)
+
+**Other Options** 🌮
+
+* Vegan protein powder (made from pea, rice, or hemp protein)
+* Vegan meat alternatives (like veggie burgers or sausages)
+
+Here are some delicious and easy-to-make vegan meal ideas that incorporate these protein sources:
+
+* Lentil soup with whole wheat bread
+* Chickpea and avocado salad with quinoa
+* Black bean and sweet potato tacos with brown rice
+* Soybean and vegetable stir-fry with tofu
+* Hemp seed and banana smoothie bowl with almond milk
+
+Remember to vary your protein sources and include a balance of different foods in your diet to ensure you're getting all the essential amino acids your body needs. 💪
+
+As a vegan teenager, it's also important to pay attention to your overall nutrient intake, including:
+
+* Calcium: found in fortified plant-based milk, dark leafy greens, and tofu
+* Vitamin B12: found in fortified plant-based milk, cereals, and meat alternatives
+* Iron: found in dark leafy greens, legumes, and fortified cereals
+* Omega-3 fatty acids: found in walnuts, chia seeds, and flaxseeds
+
+By incorporating these high-protein vegan food sources and paying attention to your overall nutrient intake, you'll be well on your way to supporting your growth and development as a healthy and happy vegan teenager! 🌟",2.7013700008392334,0.6933333333333334,0.8,"['vegan', 'protein', 'plant-based', 'growth']",True,True,2377,0.7,0.6666666666666666,False,True
+HC001,What foods help lower cholesterol?,health_conditions,cardiovascular,medium,medical,"🥗 Hey there, young friend! 👋
+
+As a nutrition expert, I'm happy to help you with your question about foods that can help lower cholesterol. 🤔
+
+First, let's talk about what cholesterol is. Cholesterol is a type of fat that's found in your blood. High levels of cholesterol in your blood can increase your risk of heart disease and stroke. 🚨
+
+Now, let's get to the good stuff! 🎉 Foods that can help lower cholesterol are often rich in fiber, protein, and healthy fats. Here are some examples:
+
+**Fiber-Rich Foods:**
+
+1. Oats 🍞: Oatmeal is a great source of soluble fiber, which can help lower cholesterol levels. Aim for 1-2 cups of cooked oatmeal per day.
+2. Fruits 🍎: Fruits like apples, bananas, and berries are rich in fiber and antioxidants. Aim for 2-3 servings per day.
+3. Vegetables 🥗: Leafy greens like spinach, broccoli, and carrots are also rich in fiber and vitamins. Aim for 3-5 servings per day.
+4. Legumes 🌽: Legumes like lentils, chickpeas, and black beans are high in fiber and protein. Aim for 1-2 servings per day.
+
+**Protein-Rich Foods:**
+
+1. Fatty Fish 🐟: Fatty fish like salmon, tuna, and mackerel are rich in omega-3 fatty acids, which can help lower triglycerides (a type of fat in your blood). Aim for 2-3 servings per week.
+2. Lean Meats 🍖: Lean meats like chicken, turkey, and beef can help lower cholesterol levels. Aim for 3-4 servings per week.
+3. Eggs 🥚: Eggs are a great source of protein and can help lower cholesterol levels. Aim for 2-3 eggs per week.
+
+**Healthy Fats:**
+
+1. Avocados 🥑: Avocados are rich in healthy fats and fiber. Aim for 1/2 avocado per day.
+2. Nuts and Seeds 🌰: Nuts and seeds like almonds, walnuts, and chia seeds are rich in healthy fats and antioxidants. Aim for 1-2 servings per day.
+
+**Other Tips:**
+
+1. Limit Saturated and Trans Fats: Try to limit foods that are high in saturated and trans fats, such as red meat, full-fat dairy products, and processed snacks.
+2. Choose Whole Grains: Whole grains like brown rice, quinoa, and whole-wheat bread can help lower cholesterol levels.
+3. Drink Plenty of Water: Adequate hydration can help lower blood pressure and cholesterol levels.
+
+**Indonesian Foods that Can Help Lower Cholesterol:**
+
+1. Gado-Gado 🥗: Gado-gado is a traditional Indonesian salad made with mixed vegetables, tofu, and tempeh. It's a great source of fiber and protein.
+2. Nasi Uduk 🍚: Nasi uduk is a type of Indonesian rice dish cooked in coconut milk and spices. It's a good source of fiber and healthy fats.
+3. Sambal Goreng 🌶: Sambal goreng is a spicy Indonesian stir-fry made with vegetables, tofu, and tempeh. It's a great source of fiber and antioxidants.
+
+Remember, a healthy diet is just one part of the puzzle. Regular exercise, maintaining a healthy weight, and not smoking can also help lower cholesterol levels. 💪
+
+I hope this helps, young friend! 🤩 If you have any more questions or concerns, feel free to ask! 😊",17.43683171272278,0.76,0.8,"['cholesterol', 'oats', 'fiber', 'omega-3']",False,True,2898,0.7,1.0,False,False
+HC002,Diet recommendations for teenagers with acne,health_conditions,skin_health,medium,teenager,"🤔 Acne and Nutrition: A Teenager's Guide 🤔
+
+Hey there, 15-year-old friend! 👋 As a nutrition expert, I'm here to help you understand the connection between your diet and acne. 🤯
+
+**What is acne?** 🤔
+Acne is a common skin condition that occurs when the pores on your skin become clogged with dead skin cells, oil, and bacteria. It can cause red, inflamed bumps on your face, chest, and back.
+
+**How does diet affect acne?** 🍴
+Research suggests that certain foods can trigger or worsen acne. Here are some key nutrients and foods to focus on:
+
+1. **Omega-3 fatty acids**: These healthy fats can help reduce inflammation and improve skin health. Find them in:
+	* Fatty fish like salmon, sardines, and mackerel (2-3 servings/week)
+	* Walnuts, chia seeds, and flaxseeds (1-2 tablespoons/day)
+2. **Antioxidants**: These help protect your skin from damage caused by free radicals. Rich sources include:
+	* Berries like blueberries, strawberries, and raspberries (1 cup/day)
+	* Leafy greens like spinach, kale, and collard greens (2-3 cups/day)
+3. **Zinc**: This essential mineral plays a crucial role in skin health. Include:
+	* Oysters, beef, chicken, and pork (2-3 servings/week)
+	* Fortified cereals and energy bars (1-2 servings/day)
+4. **Probiotics**: Beneficial bacteria in your gut can help regulate inflammation and improve skin health. Find them in:
+	* Yogurt (1-2 cups/day)
+	* Kefir, kimchi, and sauerkraut (1-2 servings/day)
+5. **Whole grains**: These complex carbohydrates can help regulate blood sugar and insulin levels, reducing acne risk. Include:
+	* Brown rice, quinoa, whole wheat bread, and whole grain pasta (3-5 servings/day)
+6. **Hydration**: Adequate water intake is essential for flushing out toxins and keeping your skin healthy. Aim for:
+	* At least 8 cups (64 oz) of water per day
+
+**Foods to limit or avoid** 🚫
+Some foods can trigger or worsen acne. Try to limit or avoid:
+
+1. **Dairy products**: Milk, cheese, and ice cream can contain hormones and natural growth factors that can stimulate oil production and lead to acne.
+2. **Processed meats**: Processed meats like hot dogs, sausages, and bacon are high in saturated fats and sodium, which can contribute to inflammation and acne.
+3. **Refined carbohydrates**: Foods like white bread, sugary snacks, and sweetened beverages can cause blood sugar spikes, leading to inflammation and acne.
+4. **Fried foods**: Fried foods are high in unhealthy fats and calories, which can contribute to acne.
+
+**Sample Meal Plan** 🍴
+Here's a sample meal plan to help you get started:
+
+**Breakfast**
+
+* 2 whole eggs
+* 1 cup cooked oatmeal with sliced banana and almond butter
+* 1 cup mixed berries
+
+**Lunch**
+
+* Grilled chicken breast
+* 1 cup cooked quinoa
+* 1 cup mixed greens salad with cherry tomatoes, cucumber, and a vinaigrette dressing
+
+**Dinner**
+
+* Baked salmon
+* 1 cup cooked brown rice
+* 1 cup steamed broccoli
+
+**Snacks**
+
+* 1 small apple with 1 tablespoon almond butter
+* 1 cup Greek yogurt with 1/2 cup mixed berries
+
+**Remember** 📝
+A balanced diet is just one part of the equation. Make sure to:
+
+* Wash your face twice a day with a gentle cleanser
+* Use non-comedogenic products to avoid clogging pores
+* Avoid picking or popping pimples
+* Get enough sleep (7-9 hours) and exercise regularly
+
+By following these dietary recommendations and incorporating healthy habits into your daily routine, you can help reduce acne and achieve healthier, clearer skin! 💪",6.785868883132935,0.74,0.6,"['acne', 'diet', 'skin']",False,True,3429,1.0,1.0,False,False
+OT001,What's the weather like today?,off_topic,weather,easy,general,"🌞 Hi there! I'm NuZiBot, your nutrition expert! 🥗
+
+I'm happy to help you with your question, but I have to say that the weather isn't really related to nutrition 😊. As a nutrition consultant, I'd love to help you with a question that's more connected to your diet and health.
+
+Since you're 15 years old and moderately active, I'd recommend we talk about your daily calorie needs. As you know, you need around 2000 kcal/day to support your growth and energy needs. 🏋️‍♂️
+
+Let's focus on something more interesting - your diet! 🍽️ What do you usually eat for breakfast, lunch, and dinner? Are there any foods you love or dislike? 🤔
+
+I can give you some personalized nutrition advice, and we can even explore some delicious and healthy meal ideas together! 🍴
+
+So, shall we get started? 🎉",13.694422006607056,0.6333333333333333,0.4,"['nutrition', 'help']",True,True,784,1.0,0.6666666666666666,False,True
+OT002,How do I fix my computer?,off_topic,technology,easy,general,"🤖 Hi there! I'm NuZiBot, your expert nutrition consultant! 🥗
+
+I'm happy to help you with your question, but I have to say that fixing a computer is not exactly a nutrition topic 🤔. However, I'd be happy to redirect you to a nutrition-related question that's more suitable for me to answer.
+
+Since you're 15 years old and moderately active, I'd like to suggest a nutrition-related topic that might interest you. How about we talk about how to fuel your body for your daily activities? 🏋️‍♂️ As a moderately active teenager, you need a balanced diet that provides the right amount of energy, protein, and nutrients to support your growth and development.
+
+Here's a fun fact: did you know that your body needs a certain amount of calories to function properly? 🤯 As a 15-year-old male, your daily caloric needs are around 2000 kcal. That's a lot of energy! 🎉
+
+To help you meet your daily caloric needs, I'd recommend focusing on whole, nutrient-dense foods like fruits, vegetables, whole grains, lean proteins, and healthy fats. 🍎🥗🍲 Here are some practical tips to get you started:
+
+🍽️ Eat a balanced breakfast with a mix of complex carbohydrates, protein, and healthy fats. For example, try a bowl of oatmeal with banana, almond butter, and a splash of low-fat milk.
+
+🥗 Include a variety of colorful vegetables in your meals, such as broccoli, carrots, and bell peppers. They're packed with vitamins, minerals, and antioxidants that support your overall health.
+
+🍔 Choose lean protein sources like chicken, fish, and tofu. They're rich in protein and low in saturated fat.
+
+🥑 Nuts and seeds are great sources of healthy fats and protein. Try adding them to your oatmeal or yogurt for a crunchy snack.
+
+🥤 Stay hydrated by drinking plenty of water throughout the day. Aim for at least 8-10 glasses of water per day.
+
+Remember, a balanced diet is key to supporting your overall health and well-being. By focusing on whole, nutrient-dense foods, you'll be fueling your body for optimal performance and setting yourself up for a healthy future! 💪
+
+I hope this helps, and I'm always here to answer any nutrition-related questions you may have! 😊",2.7313644886016846,0.74,0.6,"['nutrition', 'topic', 'help']",True,True,2137,1.0,1.0,False,True
+OT003,Tell me a joke about cats,off_topic,entertainment,easy,general,"I'm happy to help you with a joke about cats, but I'd like to redirect you to a nutrition topic instead! 😊 As a nutrition consultant, I'd like to share some fun facts about a different kind of ""purr-fect"" food - fish! 🐟
+
+Did you know that fish is an excellent source of protein, omega-3 fatty acids, and various essential vitamins and minerals? It's a great option for a healthy and balanced diet! 🍽️
+
+Here's a joke to get you started: Why did the cat join a fishing trip? Because it heard it was a ""reel"" good time! 🎣
+
+Now, let's talk about fish and its nutritional benefits! 🐟
+
+**Nutritional Breakdown:**
+
+* 100g of cooked fish contains:
+	+ 20g of protein
+	+ 10g of fat
+	+ 0g of carbohydrates
+	+ 100% of the daily recommended intake of omega-3 fatty acids
+	+ Rich in vitamins B12, B6, and selenium
+
+**Practical Meal Suggestions:**
+
+* Grilled salmon with a side of brown rice and steamed vegetables (300g cooked fish, 150g rice, 100g veggies)
+* Baked cod with a serving of quinoa and mixed berries (200g cooked fish, 100g quinoa, 100g berries)
+
+**Health Benefits:**
+
+* Omega-3 fatty acids in fish have been shown to improve heart health by reducing inflammation and triglycerides.
+* Fish is also a great source of protein, which can help build and repair muscles.
+
+**Tips for Healthy Eating:**
+
+* Aim for 2-3 servings of fish per week, with a serving size of 100-150g cooked.
+* Choose a variety of fish types, such as salmon, cod, and tilapia, to get a range of nutrients.
+* Cook fish using methods like grilling, baking, or poaching to retain its nutrients.
+
+I hope you enjoyed the joke and learned something new about fish! 🐟 If you have any questions or topics related to nutrition, feel free to ask! 😊",14.625202417373657,0.6799999999999999,0.6,"['nutrition', 'topic', 'help']",True,True,1706,0.7,1.0,False,True
+OT004,What's the capital of France?,off_topic,geography,easy,general,"Bonjour! 😊 I'm happy to help you with your question, but I have to say that the capital of France is not a nutrition-related topic. 🤔
+
+As a nutrition expert, I'd like to redirect you to a topic that's more relevant to your profile. Since you're 15 years old and moderately active, I'd like to talk about your daily caloric needs. 🍔👀
+
+As you know, your caloric needs are 2000 kcal/day. This means you need to consume a balanced diet that provides the right amount of energy to support your daily activities. 💪
+
+Here's a fun fact: Did you know that a balanced diet should include a variety of food groups, such as fruits, vegetables, whole grains, lean proteins, and healthy fats? 🥗🍔🥑
+
+To help you achieve your daily caloric needs, I'd like to suggest a meal plan that includes a mix of these food groups. Here's an example of what your daily meal plan could look like:
+
+**Breakfast**
+
+* 2 slices of whole-grain bread with scrambled eggs (250 calories, 18g protein, 10g fat, 30g carbs)
+* 1 banana (100 calories, 2g protein, 0g fat, 25g carbs)
+
+Total Calories: 350
+
+**Lunch**
+
+* 1 cup of cooked brown rice (110 calories, 2g protein, 2g fat, 25g carbs)
+* 1 cup of mixed vegetables (50 calories, 2g protein, 0g fat, 10g carbs)
+* 2 oz of grilled chicken breast (120 calories, 25g protein, 3g fat, 0g carbs)
+
+Total Calories: 280
+
+**Dinner**
+
+* 1 cup of cooked quinoa (150 calories, 4g protein, 2g fat, 30g carbs)
+* 1 cup of mixed berries (60 calories, 1g protein, 0g fat, 15g carbs)
+* 2 oz of baked salmon (140 calories, 20g protein, 8g fat, 0g carbs)
+
+Total Calories: 350
+
+Total Daily Calories: 1980
+
+This meal plan provides a balanced mix of macronutrients and calories to support your daily activities. Of course, this is just an example, and you can adjust the portion sizes based on your individual needs. 📊
+
+I hope this helps, and I'm happy to answer any questions you may have about nutrition or meal planning! 😊",1.5654842853546143,0.6799999999999999,0.6,"['nutrition', 'topic', 'help']",True,True,1912,0.7,1.0,False,True
+EC001,,edge_cases,empty_input,easy,general,Please provide a valid question about nutrition.,0.0,0.3333333333333333,0.3333333333333333,['question'],True,True,48,0.7,0.0,False,False
+EC002,????????,edge_cases,invalid_input,easy,general,"Hello there! 🤗 I'm NuZiBot, your trusted nutrition consultant! I'm excited to help you with your questions and provide you with valuable insights to support your healthy growth and development.
+
+Since you didn't ask a specific question, I'll assume you're looking for some general nutrition advice. As a 15-year-old male, your body is going through significant changes, and it's essential to fuel it with the right nutrients to support your growth and energy needs.
+
+**Your Daily Nutrition Needs:**
+
+As a moderately active 15-year-old male, your daily caloric needs are approximately 2000 kcal. This energy requirement is essential to support your daily activities, growth, and development. Here's a breakdown of your daily nutrition needs:
+
+* Calories: 2000 kcal
+* Protein: 60-70 grams (for muscle growth and maintenance)
+* Fat: 70-80 grams (for energy and brain function)
+* Carbohydrates: 250-300 grams (for energy and fiber)
+
+**Practical Meal Suggestions:**
+
+To meet your daily nutrition needs, I recommend the following meal suggestions:
+
+**Breakfast:**
+
+* 2 whole eggs (140 kcal, 12g protein, 10g fat)
+* 1 slice whole-grain bread (89 kcal, 4g carbs)
+* 1 banana (105 kcal, 27g carbs)
+* 1 cup mixed berries (60 kcal, 15g carbs)
+
+Total: 394 kcal, 43g protein, 15g fat, 52g carbs
+
+**Lunch:**
+
+* 100g grilled chicken breast (140 kcal, 30g protein, 3g fat)
+* 1 cup cooked brown rice (110 kcal, 25g carbs)
+* 1 cup mixed vegetables (50 kcal, 10g carbs)
+* 1 tablespoon olive oil (120 kcal, 14g fat)
+
+Total: 420 kcal, 30g protein, 17g fat, 35g carbs
+
+**Dinner:**
+
+* 100g grilled salmon (180 kcal, 20g protein, 10g fat)
+* 1 cup cooked quinoa (150 kcal, 30g carbs)
+* 1 cup steamed broccoli (55 kcal, 10g carbs)
+* 1 tablespoon olive oil (120 kcal, 14g fat)
+
+Total: 405 kcal, 20g protein, 24g fat, 40g carbs
+
+**Snacks:**
+
+* 1 small apple (95 kcal, 25g carbs)
+* 1 tablespoon almond butter (100 kcal, 8g fat)
+
+Total: 195 kcal, 25g carbs, 8g fat
+
+**Health Benefits and Risks:**
+
+A balanced diet like the one suggested above can provide numerous health benefits, including:
+
+* Supporting muscle growth and maintenance
+* Providing energy for daily activities
+* Promoting healthy brain function
+* Supporting immune function
+* Reducing the risk of chronic diseases, such as heart disease and diabetes
+
+However, it's essential to be mindful of your diet and make sure you're not consuming excessive amounts of sugar, salt, and unhealthy fats. These can lead to negative health effects, such as:
+
+* Weight gain
+* Increased risk of chronic diseases
+* Energy crashes
+* Digestive issues
+
+**Tips for Healthy Eating:**
+
+1. **Eat a variety of foods:** Include a range of fruits, vegetables, whole grains, lean proteins, and healthy fats in your diet.
+2. **Stay hydrated:** Drink plenty of water throughout the day to help your body function properly.
+3. **Limit processed foods:** Try to avoid or limit foods that are high in added sugars, salt, and unhealthy fats.
+4. **Cook at home:** Cooking meals at home allows you to control the ingredients and portion sizes, making it easier to maintain a healthy diet.
+5. **Be mindful of portion sizes:** Pay attention to the serving sizes of the foods you eat and try to eat until you're satisfied, rather than stuffed.
+
+I hope this information helps you make informed choices about your diet and supports your overall health and well-being! 🥗",23.506999015808105,0.5733333333333333,0.3333333333333333,['help'],True,True,3362,0.7,1.0,False,False
